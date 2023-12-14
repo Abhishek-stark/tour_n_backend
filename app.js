@@ -41,6 +41,8 @@ app.use(
             "http://localhost:3000",
             "https://abhishek-stark.github.io/Abhishek-stark-reactapp/",
             "https://abhishek-stark.github.io",
+            "https://tour-booking-fronted-j5ca-abhishek-stark.vercel.app",
+            "https://tour-booking-fronted-j5ca-abhishek-stark.vercel.app/"
         ],
         credentials: true,
     })
